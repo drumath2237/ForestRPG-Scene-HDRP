@@ -33,8 +33,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: -10
   limitMax:
-    m_OverrideState: 1
-    m_Value: 10.46
+    m_OverrideState: 0
+    m_Value: 13.35
   curveMap:
     m_OverrideState: 0
     m_Value:
@@ -145,10 +145,10 @@ MonoBehaviour:
   m_AdvancedMode: 0
   shadows:
     m_OverrideState: 1
-    m_Value: {x: 0.9120427, y: 1, z: 0.98122954, w: 0}
+    m_Value: {x: 0.9281126, y: 1, z: 0.9408142, w: 0}
   midtones:
     m_OverrideState: 1
-    m_Value: {x: 0.9353607, y: 1, z: 0.90823686, w: 0}
+    m_Value: {x: 0.8912437, y: 1, z: 0.87403107, w: 0}
   highlights:
     m_OverrideState: 1
     m_Value: {x: 0.87412417, y: 1, z: 0.49974227, w: 0}
@@ -196,7 +196,7 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.389
+    m_Value: 0.417
     min: 0
     max: 1
   smoothness:
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   temperature:
     m_OverrideState: 1
-    m_Value: 18
+    m_Value: 12
     min: -100
     max: 100
   tint:
@@ -267,12 +267,12 @@ MonoBehaviour:
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.16
+    m_Value: 0.228
     min: 0
     max: 1
   scatter:
-    m_OverrideState: 0
-    m_Value: 0.7
+    m_OverrideState: 1
+    m_Value: 0.439
     min: 0
     max: 1
   tint:
