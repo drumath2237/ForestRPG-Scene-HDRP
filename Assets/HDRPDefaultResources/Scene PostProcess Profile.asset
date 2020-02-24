@@ -124,10 +124,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   components:
   - {fileID: -6655779379860192965}
-  - {fileID: 6744107911563999364}
   - {fileID: 1468939759861006684}
   - {fileID: -1572612807389414048}
   - {fileID: 3433024356905102611}
+  - {fileID: 6744107911563999364}
   - {fileID: 2779943313968583512}
 --- !u!114 &1468939759861006684
 MonoBehaviour:
@@ -151,7 +151,7 @@ MonoBehaviour:
     m_Value: {x: 0.8912437, y: 1, z: 0.87403107, w: 0}
   highlights:
     m_OverrideState: 1
-    m_Value: {x: 0.87412417, y: 1, z: 0.49974227, w: 0}
+    m_Value: {x: 1, y: 0.97893935, z: 0.9728299, w: 0.5473502}
   shadowsStart:
     m_OverrideState: 1
     m_Value: 0.04
@@ -267,12 +267,12 @@ MonoBehaviour:
     min: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 0.228
+    m_Value: 0.536
     min: 0
     max: 1
   scatter:
     m_OverrideState: 1
-    m_Value: 0.439
+    m_Value: 0.597
     min: 0
     max: 1
   tint:
